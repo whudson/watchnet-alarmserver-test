@@ -1,0 +1,12 @@
+{
+  "name": "video-alarm-server",
+  "version": "0.0.0",
+  "description": "VideoAlarmServer",
+  "main": "app.js",
+  "author": {
+    "name": "Billy"
+  },
+  "devDependencies": {
+    "@types/node": "^6.0.87"
+  }
+}
